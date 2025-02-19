@@ -1,6 +1,6 @@
 # GUIDE
 ---------------------------------------------------------------------------------------------------
-MaFy-App: https://github.com/Jacob-PJ/MaFy-App
+[MaFy-App]([url](https://github.com/Jacob-PJ/MaFy-App)): https://github.com/Jacob-PJ/MaFy-App
 
 En halvfärdig app inspirerad av Kahn Academy och HPguiden jag jobbade på efter att blivt 
 frustrerad av hur svårt det var att plugga till Matematik -och Fysikprovet. 
