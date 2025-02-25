@@ -5,7 +5,7 @@
 En halvfärdig app inspirerad av Kahn Academy och HPguiden jag jobbade på efter att blivt 
 frustrerad av hur svårt det var att plugga till Matematik -och Fysikprovet. 
 Appen är uppbyggd med googles programmerings språk Dart, och Cross-Platform ramverket FLutter. 
-En halvfärdig app inspirerad av Kahn Academy ochttps://github.com/Jacob-PJ/GUIDE/blob/main/README.mdh HPguiden jag jobbade på efter att blivt frustrerad 
+En halvfärdig app inspirerad av Kahn Academy och HPguiden jag jobbade på efter att blivt frustrerad 
 av hur svårt det var att plugga till Matematik -och Fysikprovet. Appen är uppbyggd med googles 
 programmerings språk Dart, och Cross-Platform ramverket FLutter.
 
