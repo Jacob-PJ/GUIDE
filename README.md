@@ -2,12 +2,9 @@
 ---------------------------------------------------------------------------------------------------
 [MaFy-App](https://github.com/Jacob-PJ/MaFy-App):
 
-En halvfärdig app inspirerad av Kahn Academy och HPguiden jag jobbade på efter att blivt 
-frustrerad av hur svårt det var att plugga till Matematik -och Fysikprovet. 
-Appen är uppbyggd med googles programmerings språk Dart, och Cross-Platform ramverket FLutter. 
-En halvfärdig app inspirerad av Kahn Academy och HPguiden jag jobbade på efter att blivt frustrerad 
-av hur svårt det var att plugga till Matematik -och Fysikprovet. Appen är uppbyggd med googles 
-programmerings språk Dart, och Cross-Platform ramverket FLutter.
+A half-finished app inspired by Khan Academy and HPguiden that I worked on after becoming
+frustrated with how difficult it was to study for the Matematik -och Fysikprovet (A type of entrance exam contianing math and pysics questions). The app is 
+built using Google's programming language Dart and the cross-platform framework Flutter.
 
 ---------------------------------------------------------------------------------------------------
 [RPG](https://github.com/Jacob-PJ/RPG): 
