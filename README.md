@@ -17,5 +17,13 @@ https://youtu.be/Zj1NwIlJ70c
 ---------------------------------------------------------------------------------------------------
 [is1200/Aresh4](https://github.com/Jacob-PJ/is1200/tree/main/Aresh4):
 
-Ett projet inför kursen is1200 vid kth. Koden bygger upp ett tetris spel som körs på UNO pic32 
-microcontroller. Spelet är utväcklat i C och bygger på mips.
+A project for the course IS1200 at KTH. The code builds a Tetris game that runs on a UNO PIC32
+microcontroller. The game is developed in C and is built on MIPS.
+
+
+
+
+
+
+
+
