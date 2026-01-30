@@ -1,5 +1,15 @@
 # GUIDE
 ---------------------------------------------------------------------------------------------------
+[Plan & Pump](https://github.com/Jacob-PJ/Fittness-Plantform):
+
+A fitness web application developed as a school project, focused on workout planning and tracking.
+The application was built using React and Firebase. I was responsible for the frontend development,
+including UI structure, component design, and user flows. The project emphasized usability,
+clarity, and responsive design, with Firebase used for authentication and data storage.
+
+Use the website here: https://planpump.web.app/
+
+---------------------------------------------------------------------------------------------------
 [MaFy-App](https://github.com/Jacob-PJ/MaFy-App):
 
 A half-finished app inspired by Khan Academy and HPguiden that I worked on after becoming
