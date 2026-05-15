@@ -14,7 +14,7 @@ Personalized onboarding flows
 Structured training splits and recovery balancing
 Modern responsive UI/UX inspired by fitness and gaming aesthetics
 
-I am responsible for the frontend architecture, UI/UX implementation, application logic, onboarding systems, and training-planning structure. Firebase is used for authentication, cloud storage, and backend services.
+My role was everything frontend and design.
 ---------------------------------------------------------------------------------------------------
 [Plan & Pump](https://github.com/Jacob-PJ/Fittness-Plantform):
 
