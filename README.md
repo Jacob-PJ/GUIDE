@@ -1,5 +1,21 @@
 # GUIDE
 ---------------------------------------------------------------------------------------------------
+[Powertraining AI]([https://github.com/Jacob-PJ/Fittness-Plantform](https://github.com/FCBFAN05/powertrainingcoach)):
+
+An AI-powered fitness coaching platform focused on personalized workout programming, progression tracking, and intelligent training plan generation.
+The project is being developed using React Native and Firebase, with a strong focus on mobile-first design, structured training logic, and a custom-built design system.
+
+The app includes features such as:
+
+AI-generated workout plans
+Progressive overload and loading strategy logic
+Exercise and muscle-group tracking
+Personalized onboarding flows
+Structured training splits and recovery balancing
+Modern responsive UI/UX inspired by fitness and gaming aesthetics
+
+I am responsible for the frontend architecture, UI/UX implementation, application logic, onboarding systems, and training-planning structure. Firebase is used for authentication, cloud storage, and backend services.
+---------------------------------------------------------------------------------------------------
 [Plan & Pump](https://github.com/Jacob-PJ/Fittness-Plantform):
 
 A fitness web application developed as a school project, focused on workout planning and tracking.
