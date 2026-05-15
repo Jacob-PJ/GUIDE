@@ -1,6 +1,6 @@
 # GUIDE
 ---------------------------------------------------------------------------------------------------
-[Powertraining AI]([https://github.com/Jacob-PJ/Fittness-Plantform](https://github.com/FCBFAN05/powertrainingcoach)):
+[Powertraining AI](https://github.com/FCBFAN05/powertrainingcoach):
 
 An AI-powered fitness coaching platform focused on personalized workout programming, progression tracking, and intelligent training plan generation.
 The project is being developed using React Native and Firebase, with a strong focus on mobile-first design, structured training logic, and a custom-built design system.
