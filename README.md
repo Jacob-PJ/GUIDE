@@ -14,7 +14,7 @@ Personalized onboarding flows
 Structured training splits and recovery balancing
 Modern responsive UI/UX inspired by fitness and gaming aesthetics
 
-My role was everything frontend and design.
+The project was developed in a team of two through a consulting firm for a client. My role was frontend development and overall UI/UX design.
 
 ---------------------------------------------------------------------------------------------------
 [IngredientScanner](https://github.com/Jacob-PJ/IngredientScanner):
