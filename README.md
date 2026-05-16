@@ -17,6 +17,14 @@ Modern responsive UI/UX inspired by fitness and gaming aesthetics
 My role was everything frontend and design.
 
 ---------------------------------------------------------------------------------------------------
+[IngredientScanner](https://github.com/Jacob-PJ/IngredientScanner):
+
+A second-year school project focused on building an AI-powered food analysis application for ingredient scanning, barcode detection, and intelligent food analysis. The project was developed using React Native, Next.js, Firebase, OCR technologies, and barcode scanning systems, with a strong focus on mobile-first design and real-time camera interaction.
+
+I was responsible for the EAN scanning flow, including camera integration and API logic, as well as combining barcode scanning with OCR-based ingredient analysis. I also worked on the camera text-detection system used to automatically trigger OCR scanning when ingredient text is detected in view.
+
+Use the website here: https://www.scaneat.se/
+---------------------------------------------------------------------------------------------------
 [Plan & Pump](https://github.com/Jacob-PJ/Fittness-Plantform):
 
 A fitness web application developed as a school project, focused on workout planning and tracking.
